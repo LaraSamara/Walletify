@@ -14,12 +14,27 @@
 - [Running the Application](#running-the-application)
 - [License](#license)
 
-## Features
+## Features  
+- **User Management:**  
+  - Registration, login, and secure authentication.  
+  - User profile management.  
 
-- **User Authentication & Authorization**: Integrated with ASP.NET Identity for secure user authentication.
-- **Financial Management**: Users can update financial information, track their savings and set target goals.
-- **Transaction History**: Dashboard to view the most recent transactions and overall account status.
-- **Responsive Design**: Optimized for both desktop and mobile users.
+- **Expense Tracking:**  
+  - Add, view, and categorize expenses.  
+  - Generate detailed expense reports.  
+
+- **User-Friendly Interface:**  
+  - Intuitive design for seamless navigation.  
+  - Enhanced user experience with responsive layouts.  
+
+- **Flexible Codebase:**  
+  - Implemented the **Factory Design Pattern** for better code flexibility and maintainability.  
+
+- **Advanced Functionality:**  
+  - Integrated **job scheduling** for automating recurring tasks.  
+  - Third-party **email messaging services** for sending notifications and updates.  
+
+---
 
 ## Project Structure
 
@@ -109,3 +124,8 @@ Use the following command to apply the Entity Framework migrations and set up th
     ```
     
 3. Open your browser and navigate to `http://localhost:5000`.
+
+##  License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
