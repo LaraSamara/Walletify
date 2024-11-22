@@ -62,6 +62,14 @@ Walletify/
 - **Dependency Injection**: Custom service registration for repositories
 - **Version Control**: Git
 
+## 📹 Walletify Demo
+Get started with EchoWrite by watching our introductory video: 
+
+
+https://github.com/user-attachments/assets/8b61fa75-67b7-42f3-9018-e945facd959d
+
+
+
 ## Installation
 
 ### Prerequisites
@@ -71,6 +79,7 @@ Ensure you have the following installed:
 - [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with ASP.NET and web development workloads
+
 
 ### Steps
 
