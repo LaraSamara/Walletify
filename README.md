@@ -1,5 +1,4 @@
 # Walletify
-
 ## Overview
 
 **Walletify** is a financial management web application built using ASP.NET Core. It allows users to track their savings, set financial goals, and manage transactions effectively. The application leverages the Model-View-Controller (MVC) pattern and integrates with Identity for user management and authentication. 
